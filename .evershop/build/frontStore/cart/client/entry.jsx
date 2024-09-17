@@ -9,76 +9,76 @@ Area.defaultProps.components = {
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2F0YWxvZy9wYWdlcy9mcm9udFN0b3JlL2FsbC9TZWFyY2hCb3guanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2F0YWxvZy9wYWdlcy9mcm9udFN0b3JlL2FsbC9TZWFyY2hCb3guanN4',
       sortOrder: 5,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/catalog/pages/frontStore/all/SearchBox.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/catalog/pages/frontStore/all/SearchBox.jsx')
     },
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2hlY2tvdXQvcGFnZXMvZnJvbnRTdG9yZS9hbGwvTWluaUNhcnQuanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2hlY2tvdXQvcGFnZXMvZnJvbnRTdG9yZS9hbGwvTWluaUNhcnQuanN4',
       sortOrder: 10,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/checkout/pages/frontStore/all/MiniCart.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/checkout/pages/frontStore/all/MiniCart.jsx')
     },
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY3VzdG9tZXIvcGFnZXMvZnJvbnRTdG9yZS9hbGwvVXNlckljb24uanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY3VzdG9tZXIvcGFnZXMvZnJvbnRTdG9yZS9hbGwvVXNlckljb24uanN4',
       sortOrder: 30,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/customer/pages/frontStore/all/UserIcon.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/customer/pages/frontStore/all/UserIcon.jsx')
     }
   },
   content: {
     'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2hlY2tvdXQvcGFnZXMvZnJvbnRTdG9yZS9jYXJ0L1Nob3BwaW5nQ2FydC5qc3g=': {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2hlY2tvdXQvcGFnZXMvZnJvbnRTdG9yZS9jYXJ0L1Nob3BwaW5nQ2FydC5qc3g=',
       sortOrder: 10,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/checkout/pages/frontStore/cart/ShoppingCart.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/checkout/pages/frontStore/cart/ShoppingCart.jsx')
     },
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0JyZWFkY3J1bWIuanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0JyZWFkY3J1bWIuanN4',
       sortOrder: 0,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Breadcrumb.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Breadcrumb.jsx')
     }
   },
   shoppingCartRight: {
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2hlY2tvdXQvcGFnZXMvZnJvbnRTdG9yZS9jYXJ0L1N1bW1hcnkuanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY2hlY2tvdXQvcGFnZXMvZnJvbnRTdG9yZS9jYXJ0L1N1bW1hcnkuanN4',
       sortOrder: 10,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/checkout/pages/frontStore/cart/Summary.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/checkout/pages/frontStore/cart/Summary.jsx')
     }
   },
   footer: {
     'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0Zvb3Rlci5qc3g=': {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0Zvb3Rlci5qc3g=',
       sortOrder: 10,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Footer.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Footer.jsx')
     }
   },
   head: {
     'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0hlYWRUYWdzLmpzeA==': {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0hlYWRUYWdzLmpzeA==',
       sortOrder: 5,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/HeadTags.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/HeadTags.jsx')
     }
   },
   body: {
     'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xheW91dC5qc3g=': {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xheW91dC5qc3g=',
       sortOrder: 1,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Layout.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Layout.jsx')
     },
     'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL05vdGlmaWNhdGlvbi5qc3g=': {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL05vdGlmaWNhdGlvbi5qc3g=',
       sortOrder: 10,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Notification.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Notification.jsx')
     }
   },
   header: {
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xvZ28uanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvY21zL3BhZ2VzL2Zyb250U3RvcmUvYWxsL0xvZ28uanN4',
       sortOrder: 10,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Logo.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/cms/pages/frontStore/all/Logo.jsx')
     }
   },
   shoppingCartLeft: {
     L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvcHJvbW90aW9uL3BhZ2VzL2Zyb250U3RvcmUvY2FydC9Db3Vwb24uanN4: {
       id: 'L25vZGVfbW9kdWxlcy9AZXZlcnNob3AvZXZlcnNob3Avc3JjL21vZHVsZXMvcHJvbW90aW9uL3BhZ2VzL2Zyb250U3RvcmUvY2FydC9Db3Vwb24uanN4',
       sortOrder: 20,
-      component: require('/home/shreyanshkumarbasak/firework-build/node_modules/@evershop/evershop/src/modules/promotion/pages/frontStore/cart/Coupon.jsx')
+      component: require('/home/ssumesh7650/firework-build/node_modules/@evershop/evershop/src/modules/promotion/pages/frontStore/cart/Coupon.jsx')
     }
   },
   '*': {
